@@ -1,0 +1,29 @@
+@charset "UTF-8";
+ html , body {
+	background-color:#f1e9ba !important;
+}
+
+
+html{
+	height:100%;
+}
+
+body{
+	min-height:100%;
+	display:flex;
+	flex-direction: column;
+}
+
+.custom-margin {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  .CustomeLink {
+  	text-decoration: none;
+  }
+  
+  footer{
+  margin-top:auto;
+  }
+
